@@ -1,14 +1,13 @@
 {
-  "main.css": "/ghpage-test/static/css/main.a68bc214.chunk.css",
-  "main.js": "/ghpage-test/static/js/main.029e4f04.chunk.js",
-  "main.js.map": "/ghpage-test/static/js/main.029e4f04.chunk.js.map",
+  "main.css": "/ghpage-test/static/css/main.e0c699a8.chunk.css",
+  "main.js": "/ghpage-test/static/js/main.b90e17f0.chunk.js",
+  "main.js.map": "/ghpage-test/static/js/main.b90e17f0.chunk.js.map",
   "runtime~main.js": "/ghpage-test/static/js/runtime~main.7bf3a851.js",
   "runtime~main.js.map": "/ghpage-test/static/js/runtime~main.7bf3a851.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/ghpage-test/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/ghpage-test/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/js/2.68df4942.chunk.js": "/ghpage-test/static/js/2.68df4942.chunk.js",
+  "static/js/2.68df4942.chunk.js.map": "/ghpage-test/static/js/2.68df4942.chunk.js.map",
   "index.html": "/ghpage-test/index.html",
-  "precache-manifest.18cfc33ac46736a5878a546c7029a7eb.js": "/ghpage-test/precache-manifest.18cfc33ac46736a5878a546c7029a7eb.js",
+  "precache-manifest.c35a7d6b07a29cbcf021019fa220f984.js": "/ghpage-test/precache-manifest.c35a7d6b07a29cbcf021019fa220f984.js",
   "service-worker.js": "/ghpage-test/service-worker.js",
-  "static/css/main.a68bc214.chunk.css.map": "/ghpage-test/static/css/main.a68bc214.chunk.css.map",
-  "static/media/logo.svg": "/ghpage-test/static/media/logo.5d5d9eef.svg"
+  "static/css/main.e0c699a8.chunk.css.map": "/ghpage-test/static/css/main.e0c699a8.chunk.css.map"
 }
